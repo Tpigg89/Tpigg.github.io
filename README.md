@@ -24,6 +24,8 @@ Any data you create in the App is saved directly on your device. If you choose t
 ## 4. No Third Parties
 The App doesn’t share your data with anyone, except for iCloud if you enable it. We don’t use analytics or tracking tools.
 
+All payment and subscription information is handled by RevenueCat and is covered by their Terms and conditions.
+
 ## 5. Kids’ Privacy
 The App isn’t meant for children under 13. We don’t collect data from anyone, including kids.
 
